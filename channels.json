@@ -1,0 +1,154 @@
+[
+  {
+    "id": "telemundo-pr",
+    "name": "Telemundo PR",
+    "country": "Puerto Rico",
+    "category": "Puerto Rico",
+    "logo": "https://i.imgur.com/DVASpQj.png",
+    "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+  },
+  {
+    "id": "punto-2-pr",
+    "name": "Punto 2 PR",
+    "country": "Puerto Rico",
+    "category": "Puerto Rico",
+    "logo": "https://i.imgur.com/TL6xy4y.png",
+    "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+  },
+  {
+    "id": "wipr-pr",
+    "name": "WIPR PR",
+    "country": "Puerto Rico",
+    "category": "Puerto Rico",
+    "logo": "https://i.imgur.com/MGJaxFO.png",
+    "url": "https://streamwipr.pr/hls/stream/index.m3u8"
+  },
+  {
+    "id": "teleonce-pr-1080",
+    "name": "TeleOnce PR 1080p",
+    "country": "Puerto Rico",
+    "category": "Puerto Rico",
+    "logo": "https://i.imgur.com/Crt3P4N.png",
+    "url": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8"
+  },
+  {
+    "id": "teleonce-pr-360",
+    "name": "TeleOnce PR 360p",
+    "country": "Puerto Rico",
+    "category": "Puerto Rico",
+    "logo": "https://i.imgur.com/Crt3P4N.png",
+    "url": "https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8"
+  },
+  {
+    "id": "lax-pr",
+    "name": "La-X PR",
+    "country": "Puerto Rico",
+    "category": "Puerto Rico",
+    "logo": "https://i.imgur.com/i2GnQTq.png",
+    "url": "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8"
+  },
+  {
+    "id": "notiuno-tv-pr",
+    "name": "NotiUno TV PR",
+    "country": "Puerto Rico",
+    "category": "Puerto Rico",
+    "logo": "https://i.imgur.com/qNdywBT.png",
+    "url": "https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8"
+  },
+  {
+    "id": "radio-isla-tv-pr",
+    "name": "Radio Isla TV PR",
+    "country": "Puerto Rico",
+    "category": "Puerto Rico",
+    "logo": "https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png",
+    "url": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8"
+  },
+  {
+    "id": "caracol-hd",
+    "name": "Caracol",
+    "country": "Colombia",
+    "category": "Colombia",
+    "logo": "https://i.imgur.com/yqsPUQp.png",
+    "url": "http://181.78.8.199:8000/play/a0b0/index.m3u8"
+  },
+  {
+    "id": "rcn-hd-2",
+    "name": "RCN HD 2",
+    "country": "Colombia",
+    "category": "Colombia",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest/scale-to-width-down/67?cb=20230702001117",
+    "url": "http://181.78.8.199:8000/play/a09l/index.m3u8"
+  },
+  {
+    "id": "discovery-kids",
+    "name": "Discovery Kids",
+    "country": "USA",
+    "category": "USA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Discovery_Kids_2016.svg/512px-Discovery_Kids_2016.svg.png",
+    "url": "http://181.78.8.199:8000/play/a0c4/index.m3u8"
+  },
+  {
+    "id": "discovery-channel",
+    "name": "Discovery Channel",
+    "country": "USA",
+    "category": "USA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png",
+    "url": "http://181.78.8.199:8000/play/a0c4/index.m3u8"
+  },
+  {
+    "id": "disney-jr",
+    "name": "Disney Jr",
+    "country": "USA",
+    "category": "USA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/512px-2024_Disney_Jr._Logo.svg.png",
+    "url": "http://181.78.8.199:8000/play/a084/index.m3u8"
+  },
+  {
+    "id": "animal-planet",
+    "name": "Animal Planet",
+    "country": "USA",
+    "category": "USA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png",
+    "url": "http://181.78.8.199:8000/play/a0by/index.m3u8"
+  },
+  {
+    "id": "discovery-science",
+    "name": "Discovery Science",
+    "country": "USA",
+    "category": "USA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/512px-Science_Channel_logo.svg.png",
+    "url": "http://181.78.14.26:4000/play/a02w/index.m3u8"
+  },
+  {
+    "id": "tlc",
+    "name": "TLC",
+    "country": "USA",
+    "category": "USA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/512px-TLC_logo_%282023%29.svg.png",
+    "url": "http://181.78.8.199:8000/play/a0ch/index.m3u8"
+  },
+  {
+    "id": "universal-plus",
+    "name": "Universal+",
+    "country": "USA",
+    "category": "USA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Universal_Plus_logo.png/512px-Universal_Plus_logo.png",
+    "url": "http://181.78.8.199:8000/play/a0cf/index.m3u8"
+  },
+  {
+    "id": "starz-channel",
+    "name": "Starz Channel",
+    "country": "USA",
+    "category": "USA",
+    "logo": "https://i.imgur.com/N7oSm4d.png",
+    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8"
+  },
+  {
+    "id": "el-chavo-tv",
+    "name": "El Chavo TV",
+    "country": "México",
+    "category": "México",
+    "logo": "https://gia.tv/streams/pptv/211465.png",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
+  }
+]
