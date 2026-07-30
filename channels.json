@@ -146,9 +146,74 @@
   {
     "id": "el-chavo-tv",
     "name": "El Chavo TV",
-    "country": "México",
-    "category": "México",
+    "country": "Mexico",
+    "category": "Mexico",
     "logo": "https://gia.tv/streams/pptv/211465.png",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8"
   }
+  ,
+{
+  "id": "espn",
+  "name": "ESPN",
+  "country": "Colombia",
+  "category": "Deportes",
+  "logo": "https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",
+  "url": "http://181.78.8.199:8000/play/a0b1/index.m3u8"
+},
+{
+  "id": "discovery-kids-2",
+  "name": "Discovery Kids 2",
+  "country": "USA",
+  "category": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discovery_Kids_2021_2D_Gradient.svg/330px-Discovery_Kids_2021_2D_Gradient.svg.png",
+  "url": "http://181.78.8.199:8000/play/a070/index.m3u8"
+},
+{
+  "id": "ewtn",
+  "name": "EWTN",
+  "country": "USA",
+  "category": "Religión",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/New_EWTN_logo.jpg",
+  "url": "http://181.78.8.199:8000/play/a0ee/index.m3u8"
+},
+{
+  "id": "food-network",
+  "name": "Food Network",
+  "country": "USA",
+  "category": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/330px-Food_Network_logo.svg.png",
+  "url": "http://181.78.8.199:8000/play/a0hu/index.m3u8"
+},
+{
+  "id": "investigation-discovery",
+  "name": "Investigation Discovery",
+  "country": "USA",
+  "category": "USA",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6s0VPEHJ2T7zgVMi3nYxmPKXQQxADhaTWxg&s",
+  "url": "http://181.78.8.199:8000/play/a07j/index.m3u8"
+},
+{
+  "id": "mtv",
+  "name": "MTV",
+  "country": "USA",
+  "category": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",
+  "url": "http://181.78.8.199:8000/play/a0ad/index.m3u8"
+},
+{
+  "id": "sony-entertainment-television",
+  "name": "Sony Entertainment Television",
+  "country": "USA",
+  "category": "Películas y Series",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sony_Entertainment_Television_logo.png/250px-Sony_Entertainment_Television_logo.png",
+  "url": "http://181.78.8.199:8000/play/a0e6/index.m3u8"
+},
+{
+  "id": "tlnovelas",
+  "name": "TLNovelas",
+  "country": "Mexico",
+  "category": "Películas y Series",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/250px-TNT_Logo_2016.svg.png",
+  "url": "http://181.78.8.199:8000/play/a0bq/index.m3u8"
+}
 ]
