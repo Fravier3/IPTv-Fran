@@ -216,4 +216,269 @@
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/250px-TNT_Logo_2016.svg.png",
   "url": "http://181.78.8.199:8000/play/a0bq/index.m3u8"
 }
+  ,
+{
+  "id": "tennis-channel",
+  "name": "Tennis Channel",
+  "country": "USA",
+  "category": "Deportes",
+  "logo": "",
+  "url": "http://206.212.244.63/6149/index.m3u8"
+},
+{
+  "id": "bein-sports-xtra",
+  "name": "beIN SPORTS XTRA",
+  "country": "USA",
+  "category": "Deportes",
+  "logo": "",
+  "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
+},
+{
+  "id": "espnews",
+  "name": "ESPNews",
+  "country": "USA",
+  "category": "Deportes",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
+  "url": "https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8"
+},
+{
+  "id": "fox-sports-1",
+  "name": "Fox Sports 1",
+  "country": "USA",
+  "category": "Deportes",
+  "logo": "https://i.imgur.com/O9BapV9.png",
+  "url": "https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8"
+},
+{
+  "id": "fox-sports-2",
+  "name": "Fox Sports 2",
+  "country": "USA",
+  "category": "Deportes",
+  "logo": "https://i.imgur.com/LHtxKI8.png",
+  "url": "https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8"
+},
+{
+  "id": "mlb-network",
+  "name": "MLB Network",
+  "country": "USA",
+  "category": "Deportes",
+  "logo": "https://i.imgur.com/sA5V39D.png",
+  "url": "https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8"
+},
+{
+  "id": "nba-tv",
+  "name": "NBA TV",
+  "country": "USA",
+  "category": "Deportes",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
+  "url": "https://cdn1.ayitistream.com/NBATV/index.m3u8"
+},
+{
+  "id": "usa-network-latin-america",
+  "name": "USA Network Latin America",
+  "country": "USA",
+  "category": "Películas y Series",
+  "logo": "",
+  "url": "http://138.186.23.7:8082/SYFY/index.m3u8"
+},
+{
+  "id": "universal-tv-latin-america",
+  "name": "Universal TV Latin America",
+  "country": "USA",
+  "category": "Películas y Series",
+  "logo": "",
+  "url": "http://138.186.23.7:8082/STUDIOUNIVERSAL/index.m3u8"
+},
+{
+  "id": "cine-sony",
+  "name": "Cine Sony",
+  "country": "USA",
+  "category": "Películas y Series",
+  "logo": "https://i.imgur.com/bZWoDTg.png",
+  "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8"
+},
+{
+  "id": "star-channel-latin-america",
+  "name": "Star Channel Latin America",
+  "country": "USA",
+  "category": "Películas y Series",
+  "logo": "",
+  "url": "http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8"
+},
+{
+  "id": "studio-universal-latin-america",
+  "name": "Studio Universal Latin America",
+  "country": "USA",
+  "category": "Películas y Series",
+  "logo": "",
+  "url": "http://138.186.23.7:8082/UNIVERSAL/index.m3u8"
+},
+{
+  "id": "paramount-network-latin-america",
+  "name": "Paramount Network Latin America",
+  "country": "USA",
+  "category": "Películas y Series",
+  "logo": "",
+  "url": "http://138.186.23.7:8082/PARAMOUNT/index.m3u8"
+},
+{
+  "id": "lifetime-latin-america",
+  "name": "Lifetime Latin America",
+  "country": "USA",
+  "category": "Películas y Series",
+  "logo": "",
+  "url": "http://138.186.23.7:8082/LIFETIME/index.m3u8"
+},
+{
+  "id": "fx-latin-america",
+  "name": "FX Latin America",
+  "country": "USA",
+  "category": "Películas y Series",
+  "logo": "",
+  "url": "http://45.162.193.35/FX/index.m3u8"
+},
+{
+  "id": "cine-familiar",
+  "name": "Cine Familiar",
+  "country": "USA",
+  "category": "Películas y Series",
+  "logo": "",
+  "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8"
+},
+{
+  "id": "azteca-internacional",
+  "name": "Azteca Internacional",
+  "country": "Mexico",
+  "category": "Mexico",
+  "logo": "",
+  "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
+},
+{
+  "id": "anc-television",
+  "name": "ANC Television",
+  "country": "Colombia",
+  "category": "Colombia",
+  "logo": "",
+  "url": "https://live.amelbatv.co:81/anctvlive/index.m3u8"
+},
+{
+  "id": "citytv-bogota",
+  "name": "Citytv Bogotá",
+  "country": "Colombia",
+  "category": "Colombia",
+  "logo": "",
+  "url": "http://138.186.23.7:8082/CITY/index.m3u8"
+},
+{
+  "id": "senal-colombia",
+  "name": "Señal Colombia",
+  "country": "Colombia",
+  "category": "Colombia",
+  "logo": "",
+  "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
+},
+{
+  "id": "tnt-novelas",
+  "name": "TNT Novelas",
+  "country": "Colombia",
+  "category": "Colombia",
+  "logo": "",
+  "url": "http://138.186.23.7:8082/TNTNOVELAS/index.m3u8"
+},
+{
+  "id": "axn-latin-america",
+  "name": "AXN Latin America",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "http://138.186.23.7:8082/AXN/index.m3u8"
+},
+{
+  "id": "e-latin-america",
+  "name": "E! Latin America",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8"
+},
+{
+  "id": "bravo",
+  "name": "Bravo",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "http://41.205.93.154/BRAVO/index.m3u8"
+},
+{
+  "id": "cbn-espanol",
+  "name": "CBN Español",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8"
+},
+{
+  "id": "chef-champion",
+  "name": "Chef Champion",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8"
+},
+{
+  "id": "history-2-latin-america",
+  "name": "History 2 Latin America",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "http://138.186.23.7:8082/HISTORY2/index.m3u8"
+},
+{
+  "id": "history-latin-america",
+  "name": "History Latin America",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "http://138.186.23.7:8082/HISTORY/index.m3u8"
+},
+{
+  "id": "national-geographic-latin-america",
+  "name": "National Geographic Latin America",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "http://138.186.23.7:8082/NATGEO/index.m3u8"
+},
+{
+  "id": "nickelodeon",
+  "name": "Nickelodeon",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "http://40.160.24.55/NICKELODEON/index.m3u8"
+},
+{
+  "id": "pbs-kids-24-7",
+  "name": "PBS Kids 24/7",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "http://206.212.244.63/672/index.m3u8"
+},
+{
+  "id": "abc-usa",
+  "name": "ABC",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "https://gpuserver3.tier1streams.com/ABC/index.m3u8"
+},
+{
+  "id": "telemundo-usa",
+  "name": "Telemundo US",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "http://170.254.17.2:80/TELEMUNDO/index.m3u8"
+}
 ]
