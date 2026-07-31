@@ -1,0 +1,6 @@
+{
+  "versionCode": 5,
+  "versionName": "2.1.1",
+  "apkUrl": "https://raw.githubusercontent.com/Fravier3/IPTv-Fran/refs/heads/main/TvFran.apk",
+  "notes": "Corrige el salto de foco al elegir una categoría con el control remoto."
+}
