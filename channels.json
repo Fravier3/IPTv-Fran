@@ -32,14 +32,6 @@
     "url": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8"
   },
   {
-    "id": "teleonce-pr-360",
-    "name": "TeleOnce PR 360p",
-    "country": "Puerto Rico",
-    "category": "Puerto Rico",
-    "logo": "https://i.imgur.com/Crt3P4N.png",
-    "url": "https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8"
-  },
-  {
     "id": "lax-pr",
     "name": "La-X PR",
     "country": "Puerto Rico",
@@ -78,14 +70,6 @@
     "category": "Colombia",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/4/43/Canal_RCN_2023-present.svg/revision/latest/scale-to-width-down/67?cb=20230702001117",
     "url": "http://181.78.8.199:8000/play/a09l/index.m3u8"
-  },
-  {
-    "id": "discovery-kids",
-    "name": "Discovery Kids",
-    "country": "USA",
-    "category": "USA",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Discovery_Kids_2016.svg/512px-Discovery_Kids_2016.svg.png",
-    "url": "http://181.78.8.199:8000/play/a0c4/index.m3u8"
   },
   {
     "id": "discovery-channel",
@@ -141,7 +125,7 @@
     "country": "USA",
     "category": "USA",
     "logo": "https://i.imgur.com/N7oSm4d.png",
-    "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8"
+    "url": "https://streamer.metronethn.com/StarChannel/index.m3u8"
   },
   {
     "id": "el-chavo-tv",
@@ -167,14 +151,6 @@
   "category": "USA",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discovery_Kids_2021_2D_Gradient.svg/330px-Discovery_Kids_2021_2D_Gradient.svg.png",
   "url": "http://181.78.8.199:8000/play/a070/index.m3u8"
-},
-{
-  "id": "ewtn",
-  "name": "EWTN",
-  "country": "USA",
-  "category": "Religión",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/New_EWTN_logo.jpg",
-  "url": "http://181.78.8.199:8000/play/a0ee/index.m3u8"
 },
 {
   "id": "food-network",
@@ -204,7 +180,7 @@
   "id": "sony-entertainment-television",
   "name": "Sony Entertainment Television",
   "country": "USA",
-  "category": "Películas y Series",
+  "category": "Entretenimiento",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sony_Entertainment_Television_logo.png/250px-Sony_Entertainment_Television_logo.png",
   "url": "http://181.78.8.199:8000/play/a0e6/index.m3u8"
 },
@@ -212,7 +188,7 @@
   "id": "tlnovelas",
   "name": "TLNovelas",
   "country": "Mexico",
-  "category": "Películas y Series",
+  "category": "Entretenimiento",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/250px-TNT_Logo_2016.svg.png",
   "url": "http://181.78.8.199:8000/play/a0bq/index.m3u8"
 }
@@ -277,7 +253,7 @@
   "id": "usa-network-latin-america",
   "name": "USA Network Latin America",
   "country": "USA",
-  "category": "Películas y Series",
+  "category": "Entretenimiento",
   "logo": "",
   "url": "http://138.186.23.7:8082/SYFY/index.m3u8"
 },
@@ -285,7 +261,7 @@
   "id": "universal-tv-latin-america",
   "name": "Universal TV Latin America",
   "country": "USA",
-  "category": "Películas y Series",
+  "category": "Entretenimiento",
   "logo": "",
   "url": "http://138.186.23.7:8082/STUDIOUNIVERSAL/index.m3u8"
 },
@@ -293,7 +269,7 @@
   "id": "cine-sony",
   "name": "Cine Sony",
   "country": "USA",
-  "category": "Películas y Series",
+  "category": "Entretenimiento",
   "logo": "https://i.imgur.com/bZWoDTg.png",
   "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8"
 },
@@ -301,7 +277,7 @@
   "id": "star-channel-latin-america",
   "name": "Star Channel Latin America",
   "country": "USA",
-  "category": "Películas y Series",
+  "category": "Entretenimiento",
   "logo": "",
   "url": "http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8"
 },
@@ -309,7 +285,7 @@
   "id": "studio-universal-latin-america",
   "name": "Studio Universal Latin America",
   "country": "USA",
-  "category": "Películas y Series",
+  "category": "Entretenimiento",
   "logo": "",
   "url": "http://138.186.23.7:8082/UNIVERSAL/index.m3u8"
 },
@@ -317,7 +293,7 @@
   "id": "paramount-network-latin-america",
   "name": "Paramount Network Latin America",
   "country": "USA",
-  "category": "Películas y Series",
+  "category": "Entretenimiento",
   "logo": "",
   "url": "http://138.186.23.7:8082/PARAMOUNT/index.m3u8"
 },
@@ -325,7 +301,7 @@
   "id": "lifetime-latin-america",
   "name": "Lifetime Latin America",
   "country": "USA",
-  "category": "Películas y Series",
+  "category": "Entretenimiento",
   "logo": "",
   "url": "http://138.186.23.7:8082/LIFETIME/index.m3u8"
 },
@@ -333,7 +309,7 @@
   "id": "fx-latin-america",
   "name": "FX Latin America",
   "country": "USA",
-  "category": "Películas y Series",
+  "category": "Entretenimiento",
   "logo": "",
   "url": "http://45.162.193.35/FX/index.m3u8"
 },
@@ -341,7 +317,7 @@
   "id": "cine-familiar",
   "name": "Cine Familiar",
   "country": "USA",
-  "category": "Películas y Series",
+  "category": "Entretenimiento",
   "logo": "",
   "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8"
 },
@@ -480,5 +456,21 @@
   "category": "USA",
   "logo": "",
   "url": "http://170.254.17.2:80/TELEMUNDO/index.m3u8"
+},
+{
+  "id": "red-uno-bolivia",
+  "name": "Red Uno",
+  "country": "Bolivia",
+  "category": "Entretenimiento",
+  "logo": "https://i.imgur.com/wfNaEV9.png",
+  "url": "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8"
+},
+{
+  "id": "red-uno-santa-cruz",
+  "name": "Red Uno Santa Cruz",
+  "country": "Bolivia",
+  "category": "Entretenimiento",
+  "logo": "https://i.imgur.com/pqVzZQ9.png",
+  "url": "http://190.181.18.82:4111/play/a006/index.m3u8"
 }
 ]
