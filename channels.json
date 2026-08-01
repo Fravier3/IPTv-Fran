@@ -473,4 +473,63 @@
   "logo": "https://i.imgur.com/pqVzZQ9.png",
   "url": "http://190.181.18.82:4111/play/a006/index.m3u8"
 }
+
+
+  ,
+{
+  "id": "univision-contigo",
+  "name": "Univision Contigo",
+  "country": "USA",
+  "category": "USA",
+  "logo": "https://i.imgur.com/Q7xrM2w.png",
+  "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8"
+},
+{
+  "id": "nbc-sports-now-1",
+  "name": "NBC Sports NOW 1",
+  "country": "USA",
+  "category": "Deportes",
+  "logo": "https://i.imgur.com/EzNf2Yx.png",
+  "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008"
+},
+{
+  "id": "nbc-sports-now-2",
+  "name": "NBC Sports NOW 2",
+  "country": "USA",
+  "category": "Deportes",
+  "logo": "https://i.imgur.com/EzNf2Yx.png",
+  "url": "https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8"
+},
+{
+  "id": "nbc-sports-now-3",
+  "name": "NBC Sports NOW 3",
+  "country": "USA",
+  "category": "Deportes",
+  "logo": "https://i.imgur.com/EzNf2Yx.png",
+  "url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8"
+},
+{
+  "id": "prometheus-2012",
+  "name": "Prometheus 2012 HD",
+  "country": "USA",
+  "category": "Entretenimiento",
+  "logo": "https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg",
+  "url": "https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4"
+},
+{
+  "id": "volver-al-futuro-3",
+  "name": "Volver al Futuro 3",
+  "country": "USA",
+  "category": "Entretenimiento",
+  "logo": "",
+  "url": "https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4"
+},
+{
+  "id": "sahara-2017",
+  "name": "Sahara 2017",
+  "country": "USA",
+  "category": "Entretenimiento",
+  "logo": "",
+  "url": "http://bit.ly/SAHARAMOVIE"
+}
 ]
