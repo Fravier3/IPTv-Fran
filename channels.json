@@ -508,4 +508,144 @@
   "logo": "https://i.imgur.com/EzNf2Yx.png",
   "url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8"
 }
+
+,
+{
+  "id": "telemax-mexico",
+  "name": "Telemax",
+  "country": "Mexico",
+  "category": "Mexico",
+  "logo": "http://photocall.tv/images/telemax.png",
+  "url": "http://s5.mexside.net:1935/telemax/telemax/.m3u8"
+},
+{
+  "id": "telemundo-51-full-hd",
+  "name": "Telemundo 51 Full HD",
+  "country": "USA",
+  "category": "USA",
+  "logo": "",
+  "url": "http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0154"
+},
+{
+  "id": "vh1",
+  "name": "VH1",
+  "country": "USA",
+  "category": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+  "url": "http://40.160.24.55/VH1/index.m3u8"
+},
+{
+  "id": "national-geographic-wild",
+  "name": "National Geographic Wild",
+  "country": "USA",
+  "category": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+  "url": "http://40.160.24.53/NAT_GEO_WILD/index.m3u8"
+},
+{
+  "id": "nick-jr-latin-america",
+  "name": "Nick Jr. Latin America",
+  "country": "USA",
+  "category": "USA",
+  "logo": "https://i.imgur.com/KT4tdQs.png",
+  "url": "http://138.186.23.7:8082/NICKJR/index.m3u8"
+},
+{
+  "id": "home-network",
+  "name": "Home Network",
+  "country": "USA",
+  "category": "USA",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Home_Network_logo.svg/1920px-Home_Network_logo.svg.png",
+  "url": "http://40.160.24.53/HGTV/index.m3u8"
+},
+{
+  "id": "vevo-latino",
+  "name": "Vevo Latino",
+  "country": "USA",
+  "category": "Entretenimiento",
+  "logo": "https://i.imgur.com/D7SwmuB.png",
+  "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8"
+},
+{
+  "id": "ninja-warrior",
+  "name": "Ninja Warrior",
+  "country": "United Kingdom",
+  "category": "Entretenimiento",
+  "logo": "",
+  "url": "https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8"
+},
+{
+  "id": "mr-bean-animated-spain",
+  "name": "Mr. Bean Anime Spain",
+  "country": "Spain",
+  "category": "Entretenimiento",
+  "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+  "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
+},
+{
+  "id": "mr-beast",
+  "name": "Mr. Beast",
+  "country": "USA",
+  "category": "Entretenimiento",
+  "logo": "",
+  "url": "https://aegis-cloudfront-1.tubi.video/cf8b86e9-932a-4454-99c5-32169b6a330f/playlist.m3u8"
+},
+{
+  "id": "mo-channel",
+  "name": "MO Channel",
+  "country": "International",
+  "category": "Entretenimiento",
+  "logo": "",
+  "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
+},
+{
+  "id": "love-pets",
+  "name": "Love Pets",
+  "country": "Canada",
+  "category": "Entretenimiento",
+  "logo": "https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png",
+  "url": "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8"
+},
+{
+  "id": "latina-peru",
+  "name": "Latina",
+  "country": "Peru",
+  "category": "Entretenimiento",
+  "logo": "https://i.imgur.com/MOsWriY.png",
+  "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
+},
+{
+  "id": "historia-hd",
+  "name": "Historia HD",
+  "country": "Spain",
+  "category": "Entretenimiento",
+  "logo": "https://i.imgur.com/VUy8xIG.png",
+  "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8"
+},
+{
+  "id": "history-2-latin-america-alt",
+  "name": "History 2 Latin America 2",
+  "country": "USA",
+  "category": "Entretenimiento",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+  "url": "http://138.121.15.230:9002/HISTORY-2/index.m3u8"
+},
+{
+  "id": "kmex-dt1",
+  "name": "KMEX-DT1",
+  "country": "Mexico",
+  "category": "Mexico",
+  "logo": "https://i.imgur.com/D65iNay.png",
+  "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8"
+},
+{
+  "id": "mma-tv",
+  "name": "MMA TV.com",
+  "country": "International",
+  "category": "Deportes",
+  "logo": "https://i.imgur.com/QhdxNsB.png",
+  "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
+}
+
+  
 ]
